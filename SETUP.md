@@ -1,5 +1,3 @@
-# SETUP.md
-
 ## 🚀 Setting Up TaurusKosha Projects
 Follow these steps to set up your development environment for TaurusKosha repositories.
 
